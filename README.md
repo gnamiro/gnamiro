@@ -1,6 +1,5 @@
 - 👋 **Hi**, I’m Naeim Ghahramanpour
 - 👀 I’m interested in Natural Language processing, machine learning, and deep learning
-- 💞️ I like reading mangas, so if you have any manga to recommend, I would appreciate it if you introduced me to them. :)
 - 📫 find me here: naeemghahramanpour@gmail.com
 
 <!---
