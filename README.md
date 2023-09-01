@@ -1,5 +1,5 @@
 - 👋 **Hi**, I’m Naeim Ghahramanpour
-- 👀 I’m interested in Natural Language processing, machine learning, and deep learning
+- 👀 I’m interested in NLP, ML, topics on Big Data, and Cloud Computing.
 - 📫 find me here: naeemghahramanpour@gmail.com
 
 <!---
